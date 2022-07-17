@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "timestamp": "",
+      "body": "clothes",
+      "status": "Not complete"
+    },
+    {
+      "id": "7g87-by-34-dvvv",
+      "timestamp": "2022-7-17\t\t\t\t\t\t21:43:8",
+      "body": "dishes",
+      "status": "Not complete"
+    },
+    {
+      "id": "w3sw-yt-ie-6elc",
+      "timestamp": "2022-7-17\t\t\t\t\t\t21:55:51",
+      "body": "charge phone",
+      "status": "Not complete"
+    },
+    {
+      "id": 3,
+      "timestamp": "",
+      "body": "charge laptop",
+      "status": "Not complete"
+    },
+    {
+      "id": "1rap-pb-i8-1ee6",
+      "timestamp": "2022-7-17\t\t\t\t\t\t21:56:33",
+      "body": "charge laptop",
+      "status": "Not complete"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
